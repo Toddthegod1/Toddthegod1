@@ -20,8 +20,8 @@ I enjoy coding, data analysis, and learning new technologies. When I’m not in 
 ---
 
 ## Projects
-- **[FarmData2 Enhancements](https://github.com/your-username/project-name):** Enhanced farm management tool with crop and area dropdowns.
-- **[Goodreads Web Scraping](https://github.com/your-username/project-name):** Data analysis of top books in 2020 and from Neil Gaiman.
+- **[FarmData2 Enhancements](https://github.com/Toddthegod1/project-name):** Enhanced farm management tool with crop and area dropdowns.
+- **[Goodreads Web Scraping](https://github.com/Toddthegod1/GoodreadsWebscraping):** Data analysis of top books in 2020 and from Neil Gaiman.
 - **[Battle of Klinger Island](https://github.com/your-username/project-name):** Created a fun, basic battle game.
 - **[Modified Pong Game](https://github.com/your-username/project-name):** Interactive pong game with additional features.
 
