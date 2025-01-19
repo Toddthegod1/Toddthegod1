@@ -20,7 +20,7 @@ I enjoy coding, data analysis, and learning new technologies. When I’m not in 
 ---
 
 ## Projects
-- **[FarmData2 Enhancements](https://github.com/XxToddTheGodxX/FD2School-FarmData2/branches):** WOrked with a team of two other students to enhance college's farm management tool by adding tests using Cypress that adressed real issues surrounding the website. The issues are each in different branches.
+- **[FarmData2 Enhancements](https://github.com/XxToddTheGodxX/FD2School-FarmData2/branches):** Worked with a team of two other students to enhance college's farm management tool by adding tests using Cypress that adressed real issues surrounding the website. The issues are each in different branches.
 - **[Goodreads Web Scraping](https://github.com/Toddthegod1/GoodreadsWebscraping):** Data analysis of top books in 2020 and from Neil Gaiman in jupyter notebook using selenium, pandas and matplotlib.
 - **[Battle of Klinger Island](https://github.com/Toddthegod1/GameDevelopment):** Created a fun, basic battle game using Swing in Java.
 - **[Modified Pong Game](https://github.com/Toddthegod1/PaddleWars):** Interactive pong game with additional features such as a wall that the ball bounces off of using JavaFDX.
