@@ -1,6 +1,6 @@
 # Hi there, I'm Todd Klinger! 👋
 
-I'm a sophomore studying Computer Science and Data Science at Dickinson College. Passionate about solving problems and learning all I can!
+I'm a sophomore studying Computer Science and Data Analytics with a math minor at Dickinson College. Passionate about solving problems and learning all I can!
 
 ---
 
