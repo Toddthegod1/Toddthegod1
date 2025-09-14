@@ -24,10 +24,9 @@ I enjoy coding, data analysis, and learning new technologies. When I’m not in 
 - **[Goodreads Web Scraping](https://github.com/Toddthegod1/GoodreadsWebscraping):** Data analysis of top books in 2020 and from Neil Gaiman in jupyter notebook using selenium, pandas and matplotlib.
 - **[Battle of Klinger Island](https://github.com/Toddthegod1/GameDevelopment):** Created a fun, basic battle game using Swing in Java.
 - **[Modified Pong Game](https://github.com/Toddthegod1/PaddleWars):** Interactive pong game with additional features such as a wall that the ball bounces off of using JavaFDX.
-- - **[3 VM](https://github.com/Toddthegod1/3VMProjectPublic):** 
+- **[3 VM](https://github.com/Toddthegod1/3VMProjectPublic):** 
 Developed an interactive budgeting dashboard to track income and expenses. Architected a 3-VM environment with dedicated roles: database, application logic, and user interface, enabling modular development and collaboration. 
----
-- - **[NBIA Cancer API Interface](https://cbiit.github.io/NBIA-TCIA/#/):**  
+-  **[NBIA Cancer API Interface](https://cbiit.github.io/NBIA-TCIA/#/):**  
 Designed and deployed an NIH-hosted developer interface to improve accessibility of cancer research data APIs. Implemented interactive functionality allowing researchers to feed parameters into GET/POST requests and instantly retrieve results. Enhanced usability and visibility of cancer data resources, now publicly available for developers worldwide.
 ## Contact Me
 Feel free to reach out!
