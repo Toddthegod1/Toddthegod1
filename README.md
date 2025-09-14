@@ -27,7 +27,7 @@ I enjoy coding, data analysis, and learning new technologies. When I’m not in 
 - - **[3 VM](https://github.com/Toddthegod1/3VMProjectPublic):** 
 Developed an interactive budgeting dashboard to track income and expenses. Architected a 3-VM environment with dedicated roles: database, application logic, and user interface, enabling modular development and collaboration. 
 ---
-**[NBIA Cancer API Interface](https://cbiit.github.io/NBIA-TCIA/#/):**  
+- - **[NBIA Cancer API Interface](https://cbiit.github.io/NBIA-TCIA/#/):**  
 Designed and deployed an NIH-hosted developer interface to improve accessibility of cancer research data APIs. Implemented interactive functionality allowing researchers to feed parameters into GET/POST requests and instantly retrieve results. Enhanced usability and visibility of cancer data resources, now publicly available for developers worldwide.
 ## Contact Me
 Feel free to reach out!
