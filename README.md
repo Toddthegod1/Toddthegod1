@@ -22,12 +22,16 @@ I enjoy coding, data analysis, and learning new technologies. When I’m not in 
 ## Projects
 - **[FarmData2 Enhancements](https://github.com/XxToddTheGodxX/FD2School-FarmData2/branches):** Worked with a team of two other students to enhance college's farm management tool by adding tests using Cypress that adressed real issues surrounding the website. The issues are each in different branches.
 - **[Goodreads Web Scraping](https://github.com/Toddthegod1/GoodreadsWebscraping):** Data analysis of top books in 2020 and from Neil Gaiman in jupyter notebook using selenium, pandas and matplotlib.
-- **[Battle of Klinger Island](https://github.com/Toddthegod1/GameDevelopment):** Created a fun, basic battle game using Swing in Java.
+- **[Battle of Klinger Island](https://github.com/Toddthegod1/GameDevelopment):** Created a funv, basic battle game using Swing in Java.
 - **[Modified Pong Game](https://github.com/Toddthegod1/PaddleWars):** Interactive pong game with additional features such as a wall that the ball bounces off of using JavaFDX.
 - **[3 VM](https://github.com/Toddthegod1/3VMProjectPublic):** 
 Developed an interactive budgeting dashboard to track income and expenses. Architected a 3-VM environment with dedicated roles: database, application logic, and user interface, enabling modular development and collaboration. 
 -  **[NBIA Cancer API Interface](https://cbiit.github.io/NBIA-TCIA/#/):**  
 Designed and deployed an NIH-hosted developer interface to improve accessibility of cancer research data APIs. Implemented interactive functionality allowing researchers to feed parameters into GET/POST requests and instantly retrieve results. Enhanced usability and visibility of cancer data resources, now publicly available for developers worldwide.
+-  **[Carbon Dashboard using AWS](https://github.com/Toddthegod1/CarbonDashboard):**  
+Created an application that can track carbon using two EC2 instances, RDS and an S3 bucket. You can add entries and recieve summaries for each month.
+-  **[Finance Application](https://github.com/Toddthegod1/3VMProjectPublic.git)):**  
+Created an application that can track finances using three VMs.
 ## Contact Me
 Feel free to reach out!
 
