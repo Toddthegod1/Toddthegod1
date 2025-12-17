@@ -1,9 +1,10 @@
-# Hi there, I'm Todd Klinger! 👋 Toddthegod1.github.io
+# Hi there, I'm Todd Klinger! 👋
 
 I'm a junior studying Computer Science and Data Analytics with a math minor at Dickinson College. Passionate about solving problems and learning all I can!
 
 ---
-
+ **[My Website](https://toddthegod1.github.io/):**  
+---
 ## About Me
 I enjoy coding, data analysis, and learning new technologies. When I’m not in front of a screen, you’ll likely find me playing table tennis, tennis, volleyball, or exploring something new.
 
