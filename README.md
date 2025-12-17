@@ -32,6 +32,8 @@ Designed and deployed an NIH-hosted developer interface to improve accessibility
 Created an application that can track carbon using two EC2 instances, RDS and an S3 bucket. You can add entries and recieve summaries for each month.
 -  **[Finance Application](https://github.com/Toddthegod1/3VMProjectPublic.git)):**  
 Created an application that can track finances using three VMs.
+-  **[University Swiping App](https://github.com/Toddthegod1/CollegeDeciderApp.git)):**  
+Created an application for those looking at universities to swipe if they like the university and compare based on their own merit.
 ## Contact Me
 Feel free to reach out!
 
